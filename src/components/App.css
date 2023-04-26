@@ -1,0 +1,49 @@
+
+.navbar {
+  background-color: #1b9e16;
+  color: #fff;
+  padding: 16px;
+}
+
+.navbar a {
+  color: #000000;
+  margin-right: 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #c6370c;
+}
+
+
+.switch {
+  padding: 16px;
+}
+
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+
+.home {
+  font-size: 24px;
+}
+
+
+.actors {
+  font-size: 18px;
+}
+
+
+.directors {
+  font-size: 20px;
+}
+
+
+.movies {
+  font-size: 16px;
+}
+
